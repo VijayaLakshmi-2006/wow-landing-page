@@ -24,47 +24,44 @@ https://wowwe.vercel.app/
 ## Project Structure
 wow-landing-page
 │
+
 ├── index.html
+
 ├── package.json
+
 ├── vite.config.js
+
 ├── tailwind.config.js
 │
 ├── src
+
 │ ├── main.jsx
+
 │ ├── App.jsx
+
 │ ├── components
+
 │ │ ├── Home.jsx
+
 │ │ ├── About.jsx
+
 │ │ ├── Contact.jsx
+
 │ │ ├── Host.jsx
+
 │ │ ├── Join.jsx
+
 │ │ └── JoinEvent.jsx
+
 │ │
 │ ├── images
+
 │ └── assets
 │
 └── server
+
 └── server.js
 
-## Installation (Run Locally)
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/VijayaLakshmi-2006/wow-landing-page.git
-2. Navigate to the project folder:
-
-
-cd wow-landing-page
-3. Install dependencies:
-
-npm install
-4. Start the development server:
-
-npm run dev
-5. Open the project in your browser:
-
-http://localhost:5173/
 
 Author
 
