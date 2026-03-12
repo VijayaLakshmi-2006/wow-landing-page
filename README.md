@@ -1,8 +1,96 @@
-# React + Vite
+# WOW Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **event hosting and joining platform** built using **React, Vite, and Tailwind CSS**.  
+This project allows users to explore events, join events, and host their own events through a clean and interactive user interface.
 
-Currently, two official plugins are available:
+## Live Demo
+https://wowwe.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Modern responsive UI
+- Event hosting and joining interface
+- Clean component-based React structure
+- Fast development with Vite
+- Styled with Tailwind CSS
+- Optimized frontend performance
+
+## Technologies Used
+- React
+- Vite
+- Tailwind CSS
+- JavaScript (ES6+)
+- Node.js (server folder)
+
+## Project Structure
+wow-landing-page
+│
+├── index.html
+├── package.json
+├── vite.config.js
+├── tailwind.config.js
+│
+├── src
+│ ├── main.jsx
+│ ├── App.jsx
+│ ├── components
+│ │ ├── Home.jsx
+│ │ ├── About.jsx
+│ │ ├── Contact.jsx
+│ │ ├── Host.jsx
+│ │ ├── Join.jsx
+│ │ └── JoinEvent.jsx
+│ │
+│ ├── images
+│ └── assets
+│
+└── server
+└── server.js
+
+## Installation (Run Locally)
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/VijayaLakshmi-2006/wow-landing-page.git
+2. Navigate to the project folder:
+
+
+cd wow-landing-page
+3. Install dependencies:
+
+npm install
+4. Start the development server:
+
+npm run dev
+5. Open the project in your browser:
+
+http://localhost:5173/
+
+Author
+
+VijayaLakshmi
+
+GitHub:
+https://github.com/VijayaLakshmi-2006
+
+Support
+
+If you like this project, please ⭐ the repository.
+
+
+---
+
+### ✅ Next step
+
+1. Open **README.md** in your repo  
+2. Replace the current content with the above  
+3. Commit the change with this message:
+
+
+After that, your README will be **clean, professional, and easy to follow**, including instructions to **run locally with Vite**.  
+
+---
+
+If you want, I can now make a **fancier version with badges, tech icons, and a screenshot** for your portfolio so it looks like a **top developer repo**.  
+
+Do you want me to do that next?
