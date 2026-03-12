@@ -72,25 +72,3 @@ VijayaLakshmi
 
 GitHub:
 https://github.com/VijayaLakshmi-2006
-
-Support
-
-If you like this project, please ⭐ the repository.
-
-
----
-
-### ✅ Next step
-
-1. Open **README.md** in your repo  
-2. Replace the current content with the above  
-3. Commit the change with this message:
-
-
-After that, your README will be **clean, professional, and easy to follow**, including instructions to **run locally with Vite**.  
-
----
-
-If you want, I can now make a **fancier version with badges, tech icons, and a screenshot** for your portfolio so it looks like a **top developer repo**.  
-
-Do you want me to do that next?
